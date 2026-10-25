@@ -1,0 +1,10 @@
+# Entorno virtual de Python
+.venv/
+
+# Configuracion local de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos temporales generados por Python
+__pycache__/
+*.py[cod]
